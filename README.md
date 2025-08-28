@@ -12,3 +12,5 @@ Infosys --> Certifications completed on Lex and Learning Hub while working with 
 
 
 Hackerrank --> Certifications from hackerrank 
+
+Udemy --> Certifications from Udemy
